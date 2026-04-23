@@ -153,7 +153,7 @@ Implementación profesional de IA para optimizar procesos creativos, generar con
 
 ---
 
-## 🤝 Contacto
+##  Contacto
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Implementación profesional de IA para optimizar procesos creativos, generar con
 
 <br/>
 
-*Transformamos ideas en realidad visual* ✨
+*WE MAKE IT HAPPEN, WE MAKE IT EXIST* 
 
 </div>
 
