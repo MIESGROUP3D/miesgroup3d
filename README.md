@@ -20,7 +20,7 @@
 
 ---
 
-## 🏢 Sobre Nosotros
+##  Sobre Nosotros
 
 Somos un **estudio creativo** especializado en **visualización arquitectónica** con sede en Colombia. Combinamos tecnología de vanguardia con talento artístico para crear experiencias visuales que cautivan e inspiran.
 
@@ -44,13 +44,13 @@ const MIESGROUP3D = {
 
 ---
 
-## ⚡ Servicios
+##  Servicios
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ Renders Arquitectónicos
+###  Renders Arquitectónicos
 Visualizaciones fotorrealistas que transforman diseños en imágenes impactantes. Cada render captura la esencia y el detalle de tu proyecto.
 
 **Herramientas:**
@@ -70,7 +70,7 @@ Experiencias inmersivas que permiten explorar espacios arquitectónicos como si 
 <tr>
 <td width="50%">
 
-### 🎮 Videojuegos 3D/VR
+###  Videojuegos 3D/VR
 Desarrollo de experiencias interactivas y videojuegos en 3D y realidad virtual. Desde prototipos hasta productos finales con mecánicas inmersivas.
 
 **Herramientas:**
@@ -79,7 +79,7 @@ Desarrollo de experiencias interactivas y videojuegos en 3D y realidad virtual. 
 </td>
 <td width="50%">
 
-### 🧠 Inteligencia Artificial
+###  Inteligencia Artificial
 Implementación profesional de IA para optimizar procesos creativos, generar contenido y automatizar flujos de trabajo en visualización arquitectónica.
 
 **Herramientas:**
@@ -91,7 +91,7 @@ Implementación profesional de IA para optimizar procesos creativos, generar con
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Implementación profesional de IA para optimizar procesos creativos, generar con
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MIESGROUP3D&show_icons=true&theme=transparent&hide_border=true&title_color=14b8a6&icon_color=0d9488&text_color=9ca3af&bg_color=0d1117" height="170" />
@@ -142,14 +142,14 @@ Implementación profesional de IA para optimizar procesos creativos, generar con
 
 ---
 
-## 🚀 Nuestra Trayectoria
+##  Nuestra Trayectoria
 
 | Año | Hito | Descripción |
 |:---:|:---|:---|
 | 🟢 **2024** | **Expansión VR & Gaming** | Incorporación de desarrollo de videojuegos 3D/VR y experiencias interactivas |
 | 🔵 **2023** | **Integración de IA** | Implementación profesional de inteligencia artificial en flujos de trabajo |
-| 🟣 **2022** | **Recorridos 360° & VR** | Lanzamiento de servicios de realidad virtual y recorridos inmersivos |
-| 🟡 **2021** | **Fundación MIESGROUP3D** | Inicio de operaciones como estudio de visualización arquitectónica en Colombia |
+| 🟣 **2020** | **Recorridos 360° & VR** | Lanzamiento de servicios de realidad virtual y recorridos inmersivos |
+| 🟡 **2017** | **Fundación MIESGROUP3D** | Inicio de operaciones como estudio de visualización arquitectónica en Colombia |
 
 ---
 
