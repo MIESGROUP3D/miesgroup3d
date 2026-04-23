@@ -59,7 +59,7 @@ Visualizaciones fotorrealistas que transforman diseños en imágenes impactantes
 </td>
 <td width="50%">
 
-### 👁️ Recorridos 360° y VR
+###  Recorridos 360° y VR
 Experiencias inmersivas que permiten explorar espacios arquitectónicos como si estuvieras ahí. Recorridos virtuales interactivos con la más alta calidad visual.
 
 **Herramientas:**
